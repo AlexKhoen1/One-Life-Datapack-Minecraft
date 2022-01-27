@@ -20,6 +20,6 @@ ___________________________________________________
 ___________________________________________________
 ![carbon (2)](https://user-images.githubusercontent.com/78273715/151462076-435b8313-eb1e-4b56-976b-098adf17438e.png)
 
-![GitHub followers](https://img.shields.io/github/followers/AlexKhoen?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AlexKhoen?color=white&style=for-the-badge)
 
 
