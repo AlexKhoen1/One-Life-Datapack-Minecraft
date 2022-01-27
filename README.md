@@ -18,6 +18,6 @@ ___________________________________________________
 ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/78273715/151458785-46e4f991-8809-44ea-8190-204f51e3e1f4.jpg)
 
 ___________________________________________________
-# Made by AlexKhoen1
+# Made by AlexKhoen1 | ![GitHub followers](https://img.shields.io/github/followers/AlexKhoen?style=for-the-badge)
 
 
