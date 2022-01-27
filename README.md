@@ -6,9 +6,9 @@
 
 ### Datapack Function is : Hardcore Mode in Server.
 
-
-- If You Die Once, You Can't Respawn!
-- You Give 
+- If you die Once, you can't respawn!
+- If you die, you will be given blindness effect.
+- If you die, gamemode survival has been changed to gamemode spectator.
 ---------------------------------------
 
 ![Mozilla Add-on](https://img.shields.io/amo/v/d?color=red&label=One%20-%20Life%20&style=for-the-badge)
@@ -16,4 +16,4 @@
 ![Spiget tested server versions](https://img.shields.io/spiget/tested-versions/65786?label=Minecraft&logo=java&style=for-the-badge)
 ___________________________________________________
 
-![pack](https://user-images.githubusercontent.com/78273715/151456135-99e411af-6a36-48d7-9aa6-69248002f88d.png)
+
