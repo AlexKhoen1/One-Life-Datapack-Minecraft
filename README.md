@@ -8,6 +8,7 @@ Datapack Function is : Hardcore Mode in Server
 ```
 
 - If You Die Once, You Can't Respawn.
+https://img.shields.io/badge/<One | Life>-<v1.0>-<Red>
 
 ___________________________________________________
 
