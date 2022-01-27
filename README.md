@@ -5,8 +5,6 @@
 
 
 ### Datapack Function ↓ 
-#### Hardcore Mode in Server :
-
 - If you die Once, you can't respawn!
 - If you die, you will be given blindness effect.
 - If you die, gamemode survival has been changed to gamemode spectator.
