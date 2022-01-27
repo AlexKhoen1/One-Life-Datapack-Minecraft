@@ -4,7 +4,8 @@
 ## One | Life - Created for a Minecraft Server.
 
 
-### Datapack Function is : Hardcore Mode in Server.
+### Datapack Function : 
+#### Hardcore Mode in Server.
 
 - If you die Once, you can't respawn!
 - If you die, you will be given blindness effect.
