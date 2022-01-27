@@ -14,7 +14,7 @@
 ![Spiget tested server versions](https://img.shields.io/spiget/tested-versions/65786?label=Minecraft&logo=java&style=for-the-badge)
 ___________________________________________________
 
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/78273715/151458351-11682f7f-2f00-4c38-8342-b8dea1dca8ee.jpg)
 
+![Java-Logo-png-hd](https://user-images.githubusercontent.com/78273715/151458506-3d33642b-0a49-4fe6-bd9d-a50e3f23e9e9.png)
 
 
