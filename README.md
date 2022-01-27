@@ -10,6 +10,7 @@ Datapack Function is : Hardcore Mode in Server
 - If You Die Once, You Can't Respawn.
 
 ![Spiget tested server versions](https://img.shields.io/spiget/tested-versions/65786?label=Minecraft&logo=java)
+
 ![Mozilla Add-on](https://img.shields.io/amo/v/d?color=red&label=One%20-%20Life%20&style=for-the-badge)
 ___________________________________________________
 
