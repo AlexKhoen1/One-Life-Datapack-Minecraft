@@ -18,7 +18,7 @@ ___________________________________________________
 ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/78273715/151458785-46e4f991-8809-44ea-8190-204f51e3e1f4.jpg)
 
 ___________________________________________________
-![carbon (1)](https://user-images.githubusercontent.com/78273715/151461001-c79e6440-f1bd-4a09-9b54-6b142c061481.png)
+![carbon (2)](https://user-images.githubusercontent.com/78273715/151462076-435b8313-eb1e-4b56-976b-098adf17438e.png)
 
 ![GitHub followers](https://img.shields.io/github/followers/AlexKhoen?style=for-the-badge)
 
