@@ -9,6 +9,6 @@ Datapack Function is : Hardcore Mode in Server
 
 - If You Die Once, You Can't Respawn.
 
-![Chocolatey Version](https://img.shields.io/chocolatey/v/OneLife?color=red&label=version&logo=v&logoColor=red)
+![PyPI](https://img.shields.io/pypi/v/a?color=red&label=version&logo=jav&style=for-the-badge)
 ___________________________________________________
 
