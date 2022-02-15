@@ -22,3 +22,4 @@ ___________________________________________________
 
 ![GitHub followers](https://img.shields.io/github/followers/AlexKhoen?color=white&style=for-the-badge)
 ___________________________________________________
+Licensed  under the [MIT License](LICENSE).
